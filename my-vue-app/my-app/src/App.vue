@@ -3,10 +3,20 @@
 <UserOffer />
   </div>
 
+  <!-- <div>
+    <MainDetail />
+  </div> -->
+
+  <!-- <div>
+    <ShoppinCartMain />
+  </div> -->
+
 </template>
 
 <script setup>
 import UserOffer from './UserOffer/UserOffer.vue'
+// import MainDetail from './CoinMasterDetail/MainDetail.vue'
+// import ShoppinCartMain from './ShoppingCart/ShoppinCartMain.vue';
 
 
 </script>
